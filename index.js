@@ -1,4 +1,4 @@
-const fetch = require('node-fetch')
+const fetch = require('node-fetch') // Only works in node, browers already have fetch
 
 // fetch('https://espn.com') // url, endpoint
 // .then(response => {
